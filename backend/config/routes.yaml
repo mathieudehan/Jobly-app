@@ -1,0 +1,4 @@
+controllers:
+    resource: '../src/Controller/'
+    type: attribute # or 'annotation' if you are using annotations instead of PHP 8 attributes
+
